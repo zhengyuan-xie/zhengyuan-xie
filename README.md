@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengyuan-xie
-- 👀 I’m interested in Computer Vision & Deep Learning
-- 🌱 I’m currently learning Incremental Learning / Continual Learning
+- 👀 I’m interested in Splatoon3 & Resident Evil
+- 🌱 I’m currently learning using computer
 - 📫 My email: zhengyuanxie2000@gmail.com
 
 <!---
