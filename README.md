@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zhengyuan-xie
-- 👀 I’m interested in Splatoon3
-- 🌱 I’m currently learning using computer
+- 👀 I’m interested in Continual Learning
 - 📫 My email: zhengyuanxie2000@gmail.com
 
 <!---
