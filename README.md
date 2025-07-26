@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhengyuan-xie
-- 👀 I’m interested in Continual Learning / Multimodal Large Language Model
+- 👀 I’m interested in Continual Learning / Multimodal Large Language Model / Embodied AI
 - 📫 My email: zhengyuanxie2000@gmail.com
 
 <!---
